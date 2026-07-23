@@ -9,6 +9,8 @@
 
 .callout img {
     float: right;
+    clear: left;
+
     margin: 0 0 10px 15px;
     border: 1px solid black;
     padding: 3px;
@@ -19,6 +21,7 @@
 
 blockquote {
     margin: 0;
+
 }
 
 cite {
