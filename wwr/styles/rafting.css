@@ -64,6 +64,15 @@ article {
 
 .socialmedia a {
     text-decoration: none;
+    display: inline;
+
+}
+
+.socialmedia {
+
+    width: 50px;
+    height: auto;
+
 }
 
 .hero {
