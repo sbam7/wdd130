@@ -70,7 +70,7 @@ main img {
     padding: 2px;
     box-shadow: 0 0 30px gray;
     float: right;
-    margin: 1rem 0 1rem 1rem;
+    margin: 1rem 1rem 1rem 1rem;
     /* if any error change first 1rem for 0 */
 }
 
@@ -138,4 +138,6 @@ footer {
 
 .indent {
     padding-left: 2rem;
+    background-color: #eee;
+    color: #000;
 }
